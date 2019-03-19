@@ -6,7 +6,7 @@ Use *W* and *S* for player to the left, *UP*- and *DOWN*-arrows for player right
 
 First one to 5 wins!
 
-[](https://media.giphy.com/media/9G1vsDIi5y0pNr7xIM/giphy.gif)
+![](https://media.giphy.com/media/9G1vsDIi5y0pNr7xIM/giphy.gif)
 
 ## Usage
 
